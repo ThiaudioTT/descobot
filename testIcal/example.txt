@@ -1,0 +1,19 @@
+// Example of object in parser ical
+
+ntj5brt2crd2vmfnhcar7pvboc@google.com
+{
+  type: 'VEVENT',
+  params: [],
+  start: 2021-08-11T22:00:00.000Z { tz: undefined },
+  end: 2021-08-11T23:00:00.000Z { tz: undefined },
+  dtstamp: 2022-09-09T12:56:44.000Z { tz: undefined },
+  uid: 'ntj5brt2crd2vmfnhcar7pvboc@google.com',
+  created: 2021-09-02T15:56:59.000Z { tz: undefined },
+  description: 'https://zoom.us/j/92261255896  \nSenha: aluno',
+  lastmodified: 2021-09-02T15:56:59.000Z { tz: undefined },
+  location: '',
+  sequence: '0',
+  status: 'CONFIRMED',
+  summary: 'Live Especial - Clóvis de Barros | O Papel que Ocupo (quem sou eu e como me organizo para ser parte de vários todos, que todos ...)',
+  transparency: 'OPAQUE'
+}
